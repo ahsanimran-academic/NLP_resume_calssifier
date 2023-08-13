@@ -37,7 +37,12 @@ source myenv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-### Step 4: Run the Project
+### Step 4: Download the model
+You must download the pre-trained model from the below link and move the model to the current directory.
+[Download Model](https://drive.google.com/file/d/1ofkA5GmrukeyHHvsyIhQMdS1pnf4uIh3/view?usp=sharing) 
+
+
+### Step 5: Run the Project
 Now you need to have a directory. The directory should contain some PDF resumes. The code will automatically create folders according to their category and place them there. This code will also create a 'categorized_resumes.csv' file in the same directory.
 
 ```bash
