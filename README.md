@@ -44,7 +44,7 @@ You must download the pre-trained model from the below link and move the model t
 Keep the same name of the model otherwise you may change the name or directory in the script.py file.
 
 ### Step 5: Run the Project
-Now you need to have a directory. The directory should contain some PDF resumes. The code will automatically create folders according to their category and place them there. This code will also create a 'categorized_resumes.csv' file in the same directory.
+For inference on my trained model, you need to have a directory. The directory should contain some PDF resumes. The code will automatically create folders according to their category and place them there. This code will also create a 'categorized_resumes.csv' file in the same directory.
 
 ```bash
 python script.py path/to/dir
