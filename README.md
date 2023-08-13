@@ -1,5 +1,6 @@
 # NLP Resume Classifier
 Welcome to My Project! This repository contains NLP based resume classifier in a plug and play manner. The code just need a resume pdf directory, then it automatically categorize each resume and save in a appropriate created folder. This project will help a lot in employee recruitment system.
+The model we have used is 'DistilBERT' which stands for "Distillable BERT." It is a variant of the BERT (Bidirectional Encoder Representations from Transformers) model that has been distilled or compressed to be more lightweight and efficient while retaining much of BERT's performance. The "Distillable" aspect refers to the process of distillation, where the knowledge and representations learned by a larger model (in this case, BERT) are transferred or distilled into a smaller model (DistilBERT) to achieve similar performance with reduced computational requirements.
 
 ## Setup Instructions
 
