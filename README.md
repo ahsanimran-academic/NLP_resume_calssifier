@@ -1,2 +1,12 @@
-# NLP_resume_calssifier
-This repo contains NLP based resume classifier in a plug and play manner. The code just need a resume pdf directory, then it automatically categorize each resume and save in a appropriate created folder. This project will help a lot in employee recruitment system.
+# My Project README
+
+## Setup Instructions
+
+To work on this project, you can follow these steps to set up a virtual environment and install the required packages.
+
+### Step 1: Clone the Repository
+
+Clone this repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/yourusername/your-repo.git
