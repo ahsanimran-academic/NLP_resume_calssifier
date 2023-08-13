@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 ### Step 4: Download the model
 You must download the pre-trained model from the below link and move the model to the current directory.
-[Download Model](https://drive.google.com/file/d/1ofkA5GmrukeyHHvsyIhQMdS1pnf4uIh3/view?usp=sharing) 
+[Download Model](https://drive.google.com/file/d/1Yoa7w1RndA4CFOut2bMrPkHOtTkUvJpW/view?usp=sharing) 
 
 
 ### Step 5: Run the Project
