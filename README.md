@@ -53,3 +53,5 @@ For example, as the terminal is opened in the same cloned repo directory and the
 ```bash
 python script.py test_resume
 ```
+## Make Sure to download my trained model from the given link in Step 4. 
+## The reasoning behind using Transformer based model and evaluation matrices can be found in the 'Documentations_on_model_and_evaluation_matrices' PDF in the repo.   
