@@ -33,7 +33,17 @@ For Linux and macOS:
 python3 -m venv myenv
 source myenv/bin/activate
 ```
-### Step 3: Install packages in the virtual environment using pip.
+### Step 3: Install Required Packages
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
+```
+### Step 4: Run the Project
+Now you need to have a directory. The directory should contain some PDF resumes. The code will automatically create folders according to their category and place them there. This code will also create a 'categorized_resumes.csv' file in the same directory.
+
+```bash
+python script.py \path\to\directory
+```
+For example, as the terminal is opened in the same cloned directory and the resumes are also in the same directory named 'test_resume', I executed the command:
+```bash
+python script.py test_resume
 ```
