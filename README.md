@@ -55,3 +55,4 @@ python script.py test_resume
 ```
 ## Make Sure to download my trained model from the given link in Step 4. 
 ## The reasoning behind using Transformer based model and evaluation matrices can be found in the 'Documentations_on_model_and_evaluation_matrices.pdf' file in the repo.   
+## If you want to train the model on your own, follow the given jupyter notebook named 'notebook_resume_classification'.
