@@ -41,9 +41,9 @@ pip install -r requirements.txt
 Now you need to have a directory. The directory should contain some PDF resumes. The code will automatically create folders according to their category and place them there. This code will also create a 'categorized_resumes.csv' file in the same directory.
 
 ```bash
-python script.py \path\to\directory
+python script.py path/to/dir
 ```
-For example, as the terminal is opened in the same cloned directory and the resumes are also in the same directory named 'test_resume', I executed the command:
+For example, as the terminal is opened in the same cloned repo directory and the resumes are in the folder named 'test_resume', I executed the command:
 ```bash
 python script.py test_resume
 ```
