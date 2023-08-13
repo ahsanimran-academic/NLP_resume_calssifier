@@ -33,3 +33,7 @@ For Linux and macOS:
 python3 -m venv myenv
 source myenv/bin/activate
 ```
+### Step 3: Install packages in the virtual environment using pip.
+```bash
+pip install requirements.txt
+```
